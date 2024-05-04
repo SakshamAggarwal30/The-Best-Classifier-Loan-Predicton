@@ -1,4 +1,4 @@
-# The-Best-Classifier-Loan-Predicton
+# The-Best-Classifier-Loan-Prediction
 This loan prediction project aims to assess the likelihood of loan repayment based on historical data. It involves data loading, preprocessing, and feature engineering to prepare the dataset. Four machine learning algorithms - K Nearest Neighbor, Decision Tree, Support Vector Machine, and Logistic Regression - are trained and evaluated for their accuracy in predicting loan outcomes. The KNN model emerges as the most effective, achieving the highest Jaccard index and F1-score among the evaluated models.
 
 **Language and Libraries:** <br>
